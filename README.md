@@ -13,3 +13,4 @@
 - Quiz (Brawl Stars, Minecraft, Clash Royale, Clash of Clans, React JS and Javascript, Java)
 - APIs (pokemon, countries names)
 - Money Converter (Mobile and Web)
+- PokeInfo (Mobile)
