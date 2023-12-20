@@ -7,7 +7,6 @@
 ## Projects
 - Object Finder
 - Portifólio
-- Relative and absolute frequency calculator
 - Câmera
 - Editor (PDF and text)
 - QRcode generator
