@@ -13,3 +13,4 @@
 - QRcode generator
 - Quiz (Brawl Stars, Minecraft, Clash Royale, Clash of Clans, React JS and Javascript, Java)
 - APIs (pokemon, country names)
+- Money Converter (Mobile and Web)
