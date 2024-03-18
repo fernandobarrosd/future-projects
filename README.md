@@ -1,14 +1,19 @@
-# Projects 2024
+# Future projects
 
-<p>This repository contains all projects for next year 2024.</p>
+<p>This repository contains all future projects.</p>
 <p>obs:. This projects can be postponed.</p>
 
 
 ## Projects
-- Object Finder
-- Portifólio
-- Editor (PDF and text)
-- QRcode generator
-- Quiz (Brawl Stars, Minecraft, Clash Royale, Clash of Clans, React JS and Javascript, Java)
-- Money Converter (Web)
-- PokeInfo (Mobile)
+- [ ] Object Finder
+- [ ] Portifólio
+- [ ] PokeInfo (Mobile)
+- [ ] Colors API
+- [ ] Music Player
+- [ ] Vídeo Player
+- [ ] Date Formatter
+- [ ] Decimal to Binary
+- [ ] Create PDF from Text
+- [ ] Kanbam
+- [ ] Spotify User Playlists
+- [ ] Generate Cesar Cifer
